@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Kavivanar', cursive;
+}
+
+.title{
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.audio{
+    background-color: black;
+    color: magenta;
+    text-align: center;
+    padding: 15px;
+}
+
+.register{
+    text-align: center;
+    
+}
+
+.fake{
+    text-align: right;
+}
+
+.content{
+    padding-left: 100px;
+}
+
+.first-con{
+    padding-left: 60px;
+}
+
+.second-con{
+    padding-left: 60px;
+}
+
+.third-con{
+    padding-left: 60px;
+}
+
+.price{
+    color: chocolate;
+    background: local;
+}
